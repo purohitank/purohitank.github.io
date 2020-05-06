@@ -18,13 +18,13 @@ body {
 
 }
 
-#index_para{
-
-  color: violet;
-  font-weight: bold;
-
-}
-
-.pclasstemp{
+p.pclasstemp{
   color: red;
+  background-color: orange;
   }
+
+p.pclass2{
+
+  color: white;
+  background-color: black;
+}
