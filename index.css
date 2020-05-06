@@ -1,0 +1,30 @@
+h1 {
+  color: blue;
+}
+ul >li {
+
+  font-weight: lighter;
+  color: red;
+  border: 1px solid black;
+}
+
+body {
+  background-color: pink;
+}
+
+#headerpara{
+
+    color: red;
+
+}
+
+#index_para{
+
+  color: violet;
+  font-weight: bold;
+
+}
+
+.pclasstemp{
+  color: red;
+  }
